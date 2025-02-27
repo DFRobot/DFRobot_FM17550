@@ -1,0 +1,61 @@
+#######################################
+# Syntax Coloring Map For DFRobot_FM17550
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+DFRobot_FM17550  KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pcdHalt	KEYWORD2
+begin	KEYWORD2
+setKey	KEYWORD2
+readUUID	KEYWORD2
+pcdAntennaOn	KEYWORD2
+pcdAntennaOff	KEYWORD2
+pcdAnticoll	KEYWORD2
+pcdSelect	KEYWORD2
+pcdAuthState	KEYWORD2
+pcdRead	KEYWORD2
+pcdWrite	KEYWORD2
+calulateCRC	KEYWORD2
+writeRawRC	KEYWORD2
+readRawRC	KEYWORD2
+setBitMask	KEYWORD2
+clearBitMask	KEYWORD2
+pcdAntennaTestOn	KEYWORD2
+softLowPower	KEYWORD2
+connect	KEYWORD2
+MIFHalt	KEYWORD2
+readBlock	KEYWORD2
+writeBlock	KEYWORD2
+pcdComMF522	KEYWORD2
+pcdBakValue	KEYWORD2
+pcdValue	KEYWORD2
+writeData	KEYWORD2
+readData	KEYWORD2
+readUid	KEYWORD2
+scan	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+MI_OK	LITERAL1
+MI_ERR	LITERAL1
+MI_NOTAGERR	LITERAL1
+MI_AUTHERR	LITERAL1
+MI_CRCERR	LITERAL1
+MI_COLLERR	LITERAL1
+MI_INTERFACEERR	LITERAL1
+MI_ACCESSTIMEOUT	LITERAL1  
+MI_FIFOERR	LITERAL1  
+MI_WRONG_PARAMETER_VALUE	LITERAL1 
+MI_UNKNOWN_COMMAND	LITERAL1 

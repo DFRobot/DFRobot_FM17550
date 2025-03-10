@@ -119,8 +119,8 @@ Provide an Arduino library to control
 ## Compatibility
 
 MCU                | Work Well    | Work Wrong   |   Untested   |
------------------- | :----------: | :----------: | :---------: | -----
-Arduino UNO        |      √       |              |             | 
+------------------ | :----------: | :----------: | :-- -------: |
+Arduino UNO        |      √       |              |              | 
 
 
 

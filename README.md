@@ -118,7 +118,7 @@ Provide an Arduino library to control
 
 ## Compatibility
 
-MCU                | 表现良好	|表现异常	|未测试	|备注 |
+MCU                | Work Well    | Work Wrong   |   Untested   |
 ------------------ | :----------: | :----------: | :---------: | -----
 Arduino UNO        |      √       |              |             | 
 
